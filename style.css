@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: large;
+   font-weight: bold;
+}
+
+p span {
+    
+ color: rgb(13, 233, 97);  
+ background: rgb(224, 7, 7); 
+
+
+
+}
+p strong {
+
+    color: brown;
+    background-color: black;
+}
